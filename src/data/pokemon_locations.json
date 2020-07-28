@@ -1,0 +1,1584 @@
+[
+  {
+    "pokemon_id": 10,
+    "locations": [
+      {
+        "name": "Viridian forest",
+        "rarity": 5
+      },
+      {
+        "name": "Kanto route 25",
+        "rarity": 20
+      },
+      {
+        "name": "Kanto route 24",
+        "rarity": 20
+      },
+      {
+        "name": "Kanto route 2",
+        "rarity": 10
+      }
+    ]
+  },
+  {
+    "pokemon_id": 11,
+    "locations": [
+      {
+        "name": "Kanto route 25",
+        "rarity": 4
+      },
+      {
+        "name": "Viridian forest",
+        "rarity": 20
+      },
+      {
+        "name": "Kanto route 24",
+        "rarity": 20
+      }
+    ]
+  },
+  {
+    "pokemon_id": 13,
+    "locations": [
+      {
+        "name": "Viridian forest",
+        "rarity": 20
+      },
+      {
+        "name": "Kanto route 25",
+        "rarity": 20
+      },
+      {
+        "name": "Kanto route 24",
+        "rarity": 20
+      },
+      {
+        "name": "Kanto route 2",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "pokemon_id": 14,
+    "locations": [
+      {
+        "name": "Kanto route 25",
+        "rarity": 4
+      },
+      {
+        "name": "Kanto route 24",
+        "rarity": 20
+      },
+      {
+        "name": "Viridian forest",
+        "rarity": 5
+      }
+    ]
+  },
+  {
+    "pokemon_id": 16,
+    "locations": [
+      {
+        "name": "Kanto sea route 21",
+        "rarity": 20
+      },
+      {
+        "name": "Kanto route 6",
+        "rarity": 5
+      },
+      {
+        "name": "Kanto route 7",
+        "rarity": 20
+      },
+      {
+        "name": "Kanto route 24",
+        "rarity": 15
+      },
+      {
+        "name": "Kanto route 25",
+        "rarity": 15
+      },
+      {
+        "name": "Kanto route 5",
+        "rarity": 20
+      },
+      {
+        "name": "Kanto route 8",
+        "rarity": 20
+      },
+      {
+        "name": "Viridian forest",
+        "rarity": 10
+      },
+      {
+        "name": "Kanto route 2",
+        "rarity": 20
+      },
+      {
+        "name": "Kanto route 1",
+        "rarity": 10
+      },
+      {
+        "name": "Kanto route 12",
+        "rarity": 20
+      },
+      {
+        "name": "Kanto route 13",
+        "rarity": 20
+      },
+      {
+        "name": "Kanto route 14",
+        "rarity": 20
+      },
+      {
+        "name": "Kanto route 15",
+        "rarity": 15
+      },
+      {
+        "name": "Kanto route 11",
+        "rarity": 20
+      },
+      {
+        "name": "Kanto route 3",
+        "rarity": 20
+      }
+    ]
+  },
+  {
+    "pokemon_id": 17,
+    "locations": [
+      {
+        "name": "Kanto route 5",
+        "rarity": 5
+      },
+      {
+        "name": "Kanto sea route 21",
+        "rarity": 5
+      },
+      {
+        "name": "Kanto route 14",
+        "rarity": 4
+      },
+      {
+        "name": "Kanto route 15",
+        "rarity": 4
+      },
+      {
+        "name": "Viridian forest",
+        "rarity": 1
+      },
+      {
+        "name": "Kanto route 25",
+        "rarity": 1
+      },
+      {
+        "name": "Kanto route 24",
+        "rarity": 1
+      },
+      {
+        "name": "Kanto route 13",
+        "rarity": 15
+      },
+      {
+        "name": "Kanto route 12",
+        "rarity": 10
+      },
+      {
+        "name": "Kanto route 11",
+        "rarity": 5
+      },
+      {
+        "name": "Kanto route 8",
+        "rarity": 10
+      },
+      {
+        "name": "Kanto route 7",
+        "rarity": 10
+      },
+      {
+        "name": "Kanto route 6",
+        "rarity": 5
+      }
+    ]
+  },
+  {
+    "pokemon_id": 19,
+    "locations": [
+      {
+        "name": "Kanto route 22",
+        "rarity": 10
+      },
+      {
+        "name": "Kanto route 5",
+        "rarity": 10
+      },
+      {
+        "name": "Kanto route 1",
+        "rarity": 20
+      },
+      {
+        "name": "Kanto route 9",
+        "rarity": 5
+      },
+      {
+        "name": "Kanto route 4",
+        "rarity": 10
+      },
+      {
+        "name": "Kanto route 2",
+        "rarity": 20
+      },
+      {
+        "name": "Kanto sea route 21",
+        "rarity": 20
+      },
+      {
+        "name": "Kanto route 16",
+        "rarity": 15
+      },
+      {
+        "name": "Pokemon mansion",
+        "rarity": 10
+      },
+      {
+        "name": "Kanto route 18",
+        "rarity": 15
+      },
+      {
+        "name": "Kanto route 6",
+        "rarity": 20
+      },
+      {
+        "name": "Kanto route 3",
+        "rarity": 10
+      },
+      {
+        "name": "Kanto route 7",
+        "rarity": 15
+      },
+      {
+        "name": "Kanto route 8",
+        "rarity": 15
+      },
+      {
+        "name": "Kanto route 10",
+        "rarity": 20
+      },
+      {
+        "name": "Kanto route 11",
+        "rarity": 20
+      }
+    ]
+  },
+  {
+    "pokemon_id": 20,
+    "locations": [
+      {
+        "name": "Kanto route 18",
+        "rarity": 15
+      },
+      {
+        "name": "Pokemon mansion",
+        "rarity": 5
+      },
+      {
+        "name": "Kanto route 11",
+        "rarity": 1
+      },
+      {
+        "name": "Kanto sea route 21",
+        "rarity": 15
+      },
+      {
+        "name": "Kanto route 17",
+        "rarity": 10
+      },
+      {
+        "name": "Kanto route 16",
+        "rarity": 4
+      },
+      {
+        "name": "Kanto route 9",
+        "rarity": 4
+      },
+      {
+        "name": "Kanto route 10",
+        "rarity": 5
+      }
+    ]
+  },
+  {
+    "pokemon_id": 21,
+    "locations": [
+      {
+        "name": "Kanto route 4",
+        "rarity": 10
+      },
+      {
+        "name": "Kanto route 16",
+        "rarity": 20
+      },
+      {
+        "name": "Kanto route 22",
+        "rarity": 5
+      },
+      {
+        "name": "Kanto route 17",
+        "rarity": 20
+      },
+      {
+        "name": "Kanto route 23",
+        "rarity": 15
+      },
+      {
+        "name": "Kanto route 3",
+        "rarity": 4
+      },
+      {
+        "name": "Kanto route 18",
+        "rarity": 20
+      },
+      {
+        "name": "Kanto route 11",
+        "rarity": 5
+      },
+      {
+        "name": "Kanto route 10",
+        "rarity": 5
+      },
+      {
+        "name": "Kanto route 9",
+        "rarity": 5
+      }
+    ]
+  },
+  {
+    "pokemon_id": 22,
+    "locations": [
+      {
+        "name": "Kanto route 17",
+        "rarity": 20
+      },
+      {
+        "name": "Kanto route 23",
+        "rarity": 10
+      },
+      {
+        "name": "Kanto route 18",
+        "rarity": 5
+      },
+      {
+        "name": "Kanto route 9",
+        "rarity": 1
+      },
+      {
+        "name": "Kanto route 16",
+        "rarity": 5
+      }
+    ]
+  },
+  {
+    "pokemon_id": 23,
+    "locations": [
+      {
+        "name": "Kanto route 11",
+        "rarity": 20
+      },
+      {
+        "name": "Kanto route 10",
+        "rarity": 10
+      },
+      {
+        "name": "Kanto route 8",
+        "rarity": 15
+      },
+      {
+        "name": "Kanto route 9",
+        "rarity": 10
+      },
+      {
+        "name": "Kanto route 4",
+        "rarity": 1
+      },
+      {
+        "name": "Kanto route 23",
+        "rarity": 20
+      }
+    ]
+  },
+  {
+    "pokemon_id": 24,
+    "locations": [
+      {
+        "name": "Cerulean cave",
+        "rarity": 10
+      },
+      {
+        "name": "Kanto route 23",
+        "rarity": 5
+      }
+    ]
+  },
+  {
+    "pokemon_id": 25,
+    "locations": [
+      {
+        "name": "Power plant",
+        "rarity": 15
+      },
+      {
+        "name": "Viridian forest",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "pokemon_id": 26,
+    "locations": [
+      {
+        "name": "Cerulean cave",
+        "rarity": 10
+      },
+      {
+        "name": "Power plant",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "pokemon_id": 27,
+    "locations": [
+      {
+        "name": "Kanto route 11",
+        "rarity": 5
+      },
+      {
+        "name": "Kanto route 9",
+        "rarity": 4
+      },
+      {
+        "name": "Kanto route 8",
+        "rarity": 15
+      },
+      {
+        "name": "Kanto route 3",
+        "rarity": 10
+      },
+      {
+        "name": "Kanto route 4",
+        "rarity": 10
+      },
+      {
+        "name": "Mt moon",
+        "rarity": 4
+      },
+      {
+        "name": "Kanto route 23",
+        "rarity": 20
+      },
+      {
+        "name": "Kanto route 10",
+        "rarity": 10
+      }
+    ]
+  },
+  {
+    "pokemon_id": 28,
+    "locations": [
+      {
+        "name": "Kanto route 23",
+        "rarity": 5
+      },
+      {
+        "name": "Cerulean cave",
+        "rarity": 5
+      }
+    ]
+  },
+  {
+    "pokemon_id": 29,
+    "locations": [
+      {
+        "name": "Kanto route 22",
+        "rarity": 20
+      },
+      {
+        "name": "Kanto safari zone",
+        "rarity": 20
+      },
+      {
+        "name": "Kanto route 2",
+        "rarity": 10
+      },
+      {
+        "name": "Kanto route 10",
+        "rarity": 10
+      },
+      {
+        "name": "Kanto route 9",
+        "rarity": 10
+      }
+    ]
+  },
+  {
+    "pokemon_id": 30,
+    "locations": [
+      {
+        "name": "Kanto safari zone",
+        "rarity": 10
+      },
+      {
+        "name": "Kanto route 9",
+        "rarity": 5
+      },
+      {
+        "name": "Kanto route 23",
+        "rarity": 10
+      }
+    ]
+  },
+  {
+    "pokemon_id": 32,
+    "locations": [
+      {
+        "name": "Kanto safari zone",
+        "rarity": 20
+      },
+      {
+        "name": "Kanto route 22",
+        "rarity": 20
+      },
+      {
+        "name": "Kanto route 9",
+        "rarity": 20
+      },
+      {
+        "name": "Kanto route 10",
+        "rarity": 10
+      },
+      {
+        "name": "Kanto route 2",
+        "rarity": 5
+      }
+    ]
+  },
+  {
+    "pokemon_id": 33,
+    "locations": [
+      {
+        "name": "Kanto safari zone",
+        "rarity": 10
+      },
+      {
+        "name": "Kanto route 23",
+        "rarity": 20
+      },
+      {
+        "name": "Kanto route 9",
+        "rarity": 5
+      }
+    ]
+  },
+  {
+    "pokemon_id": 35,
+    "locations": [
+      {
+        "name": "Mt moon",
+        "rarity": 5
+      }
+    ]
+  },
+  {
+    "pokemon_id": 37,
+    "locations": [
+      {
+        "name": "Kanto route 8",
+        "rarity": 10
+      },
+      {
+        "name": "Kanto route 7",
+        "rarity": 5
+      },
+      {
+        "name": "Pokemon mansion",
+        "rarity": 20
+      }
+    ]
+  },
+  {
+    "pokemon_id": 39,
+    "locations": [
+      {
+        "name": "Kanto route 5",
+        "rarity": 1
+      },
+      {
+        "name": "Kanto route 6",
+        "rarity": 4
+      },
+      {
+        "name": "Kanto route 7",
+        "rarity": 1
+      },
+      {
+        "name": "Kanto route 3",
+        "rarity": 4
+      },
+      {
+        "name": "Kanto route 8",
+        "rarity": 5
+      }
+    ]
+  },
+  {
+    "pokemon_id": 40,
+    "locations": [
+      {
+        "name": "Cerulean cave",
+        "rarity": 5
+      }
+    ]
+  },
+  {
+    "pokemon_id": 41,
+    "locations": [
+      {
+        "name": "Mt moon",
+        "rarity": 10
+      },
+      {
+        "name": "Rock tunnel",
+        "rarity": 20
+      },
+      {
+        "name": "Kanto victory road 2",
+        "rarity": 15
+      },
+      {
+        "name": "Seafoam islands",
+        "rarity": 10
+      }
+    ]
+  },
+  {
+    "pokemon_id": 42,
+    "locations": [
+      {
+        "name": "Kanto victory road 2",
+        "rarity": 5
+      },
+      {
+        "name": "Seafoam islands",
+        "rarity": 5
+      },
+      {
+        "name": "Cerulean cave",
+        "rarity": 20
+      }
+    ]
+  },
+  {
+    "pokemon_id": 43,
+    "locations": [
+      {
+        "name": "Kanto route 12",
+        "rarity": 20
+      },
+      {
+        "name": "Kanto route 13",
+        "rarity": 20
+      },
+      {
+        "name": "Kanto route 5",
+        "rarity": 10
+      },
+      {
+        "name": "Kanto route 25",
+        "rarity": 5
+      },
+      {
+        "name": "Kanto route 15",
+        "rarity": 5
+      },
+      {
+        "name": "Kanto route 14",
+        "rarity": 20
+      },
+      {
+        "name": "Kanto route 6",
+        "rarity": 10
+      },
+      {
+        "name": "Kanto route 7",
+        "rarity": 20
+      },
+      {
+        "name": "Kanto route 24",
+        "rarity": 5
+      }
+    ]
+  },
+  {
+    "pokemon_id": 44,
+    "locations": [
+      {
+        "name": "Kanto route 14",
+        "rarity": 5
+      },
+      {
+        "name": "Kanto route 12",
+        "rarity": 4
+      },
+      {
+        "name": "Kanto route 13",
+        "rarity": 4
+      },
+      {
+        "name": "Kanto route 15",
+        "rarity": 5
+      },
+      {
+        "name": "Cerulean cave",
+        "rarity": 10
+      }
+    ]
+  },
+  {
+    "pokemon_id": 46,
+    "locations": [
+      {
+        "name": "Mt moon",
+        "rarity": 5
+      },
+      {
+        "name": "Kanto safari zone",
+        "rarity": 15
+      }
+    ]
+  },
+  {
+    "pokemon_id": 47,
+    "locations": [
+      {
+        "name": "Cerulean cave",
+        "rarity": 5
+      },
+      {
+        "name": "Kanto safari zone",
+        "rarity": 5
+      }
+    ]
+  },
+  {
+    "pokemon_id": 48,
+    "locations": [
+      {
+        "name": "Kanto route 14",
+        "rarity": 10
+      },
+      {
+        "name": "Kanto route 12",
+        "rarity": 10
+      },
+      {
+        "name": "Kanto route 25",
+        "rarity": 5
+      },
+      {
+        "name": "Kanto route 24",
+        "rarity": 5
+      },
+      {
+        "name": "Kanto safari zone",
+        "rarity": 15
+      },
+      {
+        "name": "Kanto route 15",
+        "rarity": 10
+      },
+      {
+        "name": "Kanto route 13",
+        "rarity": 10
+      }
+    ]
+  },
+  {
+    "pokemon_id": 49,
+    "locations": [
+      {
+        "name": "Cerulean cave",
+        "rarity": 20
+      },
+      {
+        "name": "Kanto safari zone",
+        "rarity": 5
+      },
+      {
+        "name": "Kanto route 14",
+        "rarity": 1
+      },
+      {
+        "name": "Kanto victory road 2",
+        "rarity": 10
+      },
+      {
+        "name": "Kanto route 15",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "pokemon_id": 50,
+    "locations": [
+      {
+        "name": "Digletts cave",
+        "rarity": 20
+      }
+    ]
+  },
+  {
+    "pokemon_id": 51,
+    "locations": [
+      {
+        "name": "Digletts cave",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "pokemon_id": 52,
+    "locations": [
+      {
+        "name": "Kanto route 7",
+        "rarity": 1
+      },
+      {
+        "name": "Kanto route 5",
+        "rarity": 10
+      },
+      {
+        "name": "Kanto route 6",
+        "rarity": 10
+      },
+      {
+        "name": "Kanto route 8",
+        "rarity": 20
+      }
+    ]
+  },
+  {
+    "pokemon_id": 54,
+    "locations": [
+      {
+        "name": "Seafoam islands",
+        "rarity": 10
+      }
+    ]
+  },
+  {
+    "pokemon_id": 55,
+    "locations": [
+      {
+        "name": "Seafoam islands",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "pokemon_id": 56,
+    "locations": [
+      {
+        "name": "Kanto route 5",
+        "rarity": 10
+      },
+      {
+        "name": "Kanto route 7",
+        "rarity": 10
+      },
+      {
+        "name": "Kanto route 6",
+        "rarity": 1
+      },
+      {
+        "name": "Kanto route 4",
+        "rarity": 15
+      },
+      {
+        "name": "Kanto route 22",
+        "rarity": 5
+      },
+      {
+        "name": "Kanto route 3",
+        "rarity": 15
+      },
+      {
+        "name": "Kanto route 23",
+        "rarity": 5
+      },
+      {
+        "name": "Kanto route 8",
+        "rarity": 10
+      }
+    ]
+  },
+  {
+    "pokemon_id": 57,
+    "locations": [
+      {
+        "name": "Kanto route 23",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "pokemon_id": 58,
+    "locations": [
+      {
+        "name": "Pokemon mansion",
+        "rarity": 20
+      },
+      {
+        "name": "Kanto route 8",
+        "rarity": 5
+      },
+      {
+        "name": "Kanto route 7",
+        "rarity": 5
+      }
+    ]
+  },
+  {
+    "pokemon_id": 63,
+    "locations": [
+      {
+        "name": "Kanto route 6",
+        "rarity": 15
+      },
+      {
+        "name": "Kanto route 7",
+        "rarity": 10
+      },
+      {
+        "name": "Kanto route 25",
+        "rarity": 5
+      },
+      {
+        "name": "Kanto route 24",
+        "rarity": 1
+      },
+      {
+        "name": "Kanto route 8",
+        "rarity": 10
+      },
+      {
+        "name": "Kanto route 5",
+        "rarity": 15
+      }
+    ]
+  },
+  {
+    "pokemon_id": 64,
+    "locations": [
+      {
+        "name": "Cerulean cave",
+        "rarity": 15
+      },
+      {
+        "name": "Kanto route 8",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "pokemon_id": 66,
+    "locations": [
+      {
+        "name": "Rock tunnel",
+        "rarity": 4
+      },
+      {
+        "name": "Kanto victory road 2",
+        "rarity": 20
+      },
+      {
+        "name": "Kanto route 10",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "pokemon_id": 67,
+    "locations": [
+      {
+        "name": "Kanto victory road 2",
+        "rarity": 5
+      }
+    ]
+  },
+  {
+    "pokemon_id": 69,
+    "locations": [
+      {
+        "name": "Kanto route 14",
+        "rarity": 20
+      },
+      {
+        "name": "Kanto route 25",
+        "rarity": 10
+      },
+      {
+        "name": "Kanto route 12",
+        "rarity": 5
+      },
+      {
+        "name": "Kanto route 24",
+        "rarity": 5
+      },
+      {
+        "name": "Kanto route 13",
+        "rarity": 10
+      },
+      {
+        "name": "Kanto route 6",
+        "rarity": 20
+      },
+      {
+        "name": "Kanto route 7",
+        "rarity": 10
+      },
+      {
+        "name": "Kanto route 15",
+        "rarity": 20
+      },
+      {
+        "name": "Kanto route 5",
+        "rarity": 5
+      }
+    ]
+  },
+  {
+    "pokemon_id": 70,
+    "locations": [
+      {
+        "name": "Kanto route 12",
+        "rarity": 1
+      },
+      {
+        "name": "Kanto route 13",
+        "rarity": 4
+      },
+      {
+        "name": "Kanto route 14",
+        "rarity": 5
+      },
+      {
+        "name": "Cerulean cave",
+        "rarity": 5
+      },
+      {
+        "name": "Kanto route 15",
+        "rarity": 5
+      }
+    ]
+  },
+  {
+    "pokemon_id": 74,
+    "locations": [
+      {
+        "name": "Mt moon",
+        "rarity": 5
+      },
+      {
+        "name": "Kanto victory road 2",
+        "rarity": 20
+      },
+      {
+        "name": "Rock tunnel",
+        "rarity": 20
+      }
+    ]
+  },
+  {
+    "pokemon_id": 75,
+    "locations": [
+      {
+        "name": "Kanto victory road 2",
+        "rarity": 1
+      },
+      {
+        "name": "Cerulean cave",
+        "rarity": 15
+      }
+    ]
+  },
+  {
+    "pokemon_id": 77,
+    "locations": [
+      {
+        "name": "Pokemon mansion",
+        "rarity": 10
+      },
+      {
+        "name": "Kanto route 17",
+        "rarity": 10
+      }
+    ]
+  },
+  {
+    "pokemon_id": 79,
+    "locations": [
+      {
+        "name": "Seafoam islands",
+        "rarity": 15
+      }
+    ]
+  },
+  {
+    "pokemon_id": 80,
+    "locations": [
+      {
+        "name": "Seafoam islands",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "pokemon_id": 81,
+    "locations": [
+      {
+        "name": "Power plant",
+        "rarity": 10
+      },
+      {
+        "name": "Kanto route 10",
+        "rarity": 20
+      }
+    ]
+  },
+  {
+    "pokemon_id": 82,
+    "locations": [
+      {
+        "name": "Power plant",
+        "rarity": 5
+      },
+      {
+        "name": "Cerulean cave",
+        "rarity": 15
+      }
+    ]
+  },
+  {
+    "pokemon_id": 83,
+    "locations": [
+      {
+        "name": "Kanto route 13",
+        "rarity": 4
+      },
+      {
+        "name": "Kanto route 12",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "pokemon_id": 84,
+    "locations": [
+      {
+        "name": "Kanto safari zone",
+        "rarity": 20
+      },
+      {
+        "name": "Kanto route 18",
+        "rarity": 5
+      },
+      {
+        "name": "Kanto route 16",
+        "rarity": 20
+      },
+      {
+        "name": "Kanto route 17",
+        "rarity": 20
+      }
+    ]
+  },
+  {
+    "pokemon_id": 85,
+    "locations": [
+      {
+        "name": "Cerulean cave",
+        "rarity": 10
+      },
+      {
+        "name": "Kanto route 17",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "pokemon_id": 86,
+    "locations": [
+      {
+        "name": "Seafoam islands",
+        "rarity": 10
+      }
+    ]
+  },
+  {
+    "pokemon_id": 87,
+    "locations": [
+      {
+        "name": "Seafoam islands",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "pokemon_id": 88,
+    "locations": [
+      {
+        "name": "Pokemon mansion",
+        "rarity": 20
+      },
+      {
+        "name": "Power plant",
+        "rarity": 10
+      }
+    ]
+  },
+  {
+    "pokemon_id": 89,
+    "locations": [
+      {
+        "name": "Pokemon mansion",
+        "rarity": 1
+      },
+      {
+        "name": "Power plant",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "pokemon_id": 90,
+    "locations": [
+      {
+        "name": "Seafoam islands",
+        "rarity": 10
+      }
+    ]
+  },
+  {
+    "pokemon_id": 92,
+    "locations": [
+      {
+        "name": "Pokemon tower",
+        "rarity": 10
+      }
+    ]
+  },
+  {
+    "pokemon_id": 93,
+    "locations": [
+      {
+        "name": "Pokemon tower",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "pokemon_id": 95,
+    "locations": [
+      {
+        "name": "Rock tunnel",
+        "rarity": 4
+      },
+      {
+        "name": "Kanto victory road 2",
+        "rarity": 10
+      }
+    ]
+  },
+  {
+    "pokemon_id": 96,
+    "locations": [
+      {
+        "name": "Kanto route 11",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "pokemon_id": 97,
+    "locations": [
+      {
+        "name": "Cerulean cave",
+        "rarity": 20
+      }
+    ]
+  },
+  {
+    "pokemon_id": 98,
+    "locations": [
+      {
+        "name": "Seafoam islands",
+        "rarity": 5
+      }
+    ]
+  },
+  {
+    "pokemon_id": 99,
+    "locations": [
+      {
+        "name": "Seafoam islands",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "pokemon_id": 100,
+    "locations": [
+      {
+        "name": "Power plant",
+        "rarity": 20
+      },
+      {
+        "name": "Kanto route 10",
+        "rarity": 5
+      }
+    ]
+  },
+  {
+    "pokemon_id": 101,
+    "locations": [
+      {
+        "name": "Cerulean cave",
+        "rarity": 10
+      }
+    ]
+  },
+  {
+    "pokemon_id": 102,
+    "locations": [
+      {
+        "name": "Kanto safari zone",
+        "rarity": 15
+      }
+    ]
+  },
+  {
+    "pokemon_id": 104,
+    "locations": [
+      {
+        "name": "Pokemon tower",
+        "rarity": 4
+      },
+      {
+        "name": "Kanto safari zone",
+        "rarity": 10
+      }
+    ]
+  },
+  {
+    "pokemon_id": 105,
+    "locations": [
+      {
+        "name": "Kanto victory road 2",
+        "rarity": 1
+      },
+      {
+        "name": "Cerulean cave",
+        "rarity": 20
+      },
+      {
+        "name": "Kanto safari zone",
+        "rarity": 5
+      }
+    ]
+  },
+  {
+    "pokemon_id": 108,
+    "locations": [
+      {
+        "name": "Cerulean cave",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "pokemon_id": 109,
+    "locations": [
+      {
+        "name": "Pokemon mansion",
+        "rarity": 10
+      }
+    ]
+  },
+  {
+    "pokemon_id": 110,
+    "locations": [
+      {
+        "name": "Pokemon mansion",
+        "rarity": 5
+      }
+    ]
+  },
+  {
+    "pokemon_id": 111,
+    "locations": [
+      {
+        "name": "Kanto safari zone",
+        "rarity": 20
+      },
+      {
+        "name": "Cerulean cave",
+        "rarity": 10
+      }
+    ]
+  },
+  {
+    "pokemon_id": 112,
+    "locations": [
+      {
+        "name": "Cerulean cave",
+        "rarity": 10
+      }
+    ]
+  },
+  {
+    "pokemon_id": 113,
+    "locations": [
+      {
+        "name": "Cerulean cave",
+        "rarity": 5
+      },
+      {
+        "name": "Kanto safari zone",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "pokemon_id": 114,
+    "locations": [
+      {
+        "name": "Kanto sea route 21",
+        "rarity": 4
+      },
+      {
+        "name": "Kanto safari zone",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "pokemon_id": 115,
+    "locations": [
+      {
+        "name": "Kanto safari zone",
+        "rarity": 10
+      }
+    ]
+  },
+  {
+    "pokemon_id": 116,
+    "locations": [
+      {
+        "name": "Seafoam islands",
+        "rarity": 20
+      }
+    ]
+  },
+  {
+    "pokemon_id": 117,
+    "locations": [
+      {
+        "name": "Seafoam islands",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "pokemon_id": 120,
+    "locations": [
+      {
+        "name": "Seafoam islands",
+        "rarity": 20
+      }
+    ]
+  },
+  {
+    "pokemon_id": 123,
+    "locations": [
+      {
+        "name": "Kanto safari zone",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "pokemon_id": 125,
+    "locations": [
+      {
+        "name": "Power plant",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "pokemon_id": 126,
+    "locations": [
+      {
+        "name": "Pokemon mansion",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "pokemon_id": 127,
+    "locations": [
+      {
+        "name": "Kanto safari zone",
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "pokemon_id": 128,
+    "locations": [
+      {
+        "name": "Kanto safari zone",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "pokemon_id": 132,
+    "locations": [
+      {
+        "name": "Kanto route 13",
+        "rarity": 5
+      },
+      {
+        "name": "Cerulean cave",
+        "rarity": 1
+      },
+      {
+        "name": "Kanto route 14",
+        "rarity": 15
+      },
+      {
+        "name": "Kanto route 15",
+        "rarity": 20
+      },
+      {
+        "name": "Pokemon mansion",
+        "rarity": 1
+      },
+      {
+        "name": "Kanto route 23",
+        "rarity": 10
+      }
+    ]
+  }
+]
