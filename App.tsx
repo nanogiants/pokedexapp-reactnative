@@ -3,6 +3,7 @@ import { Navigation } from "react-native-navigation";
 
 import PokemonList from './src/components/PokemonList';
 import PokemonDetail from './src/components/PokemonDetail';
+import FavIconButton from './src/components/FavIconButton';
 
 interface IScreens {
   [key: string]: any;
@@ -11,7 +12,8 @@ interface IScreens {
 const registerScreens = () => {
   const screens: IScreens = {
     'pokemonlist': PokemonList,
-    'pokemondetail': PokemonDetail
+    'pokemondetail': PokemonDetail,
+    'faviconbutton': FavIconButton
   };
 
   Object.keys(screens).forEach((key: string) => {

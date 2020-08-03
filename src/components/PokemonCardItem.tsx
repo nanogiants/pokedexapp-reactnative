@@ -2,7 +2,7 @@ import React from 'react';
 import styled from 'styled-components/native';
 import Typography from '../styles/Typography';
 import { Navigation } from "react-native-navigation";
-//import AsyncStorage from '@react-native-community/async-storage';
+import AsyncStorage from '@react-native-community/async-storage';
 
 import BaseComponents from '../styles/Components';
 import PokemonDto from '../dtos/Pokemon.dto';
@@ -37,12 +37,12 @@ interface PokemonCardItemProps extends PokemonDto {
 const PokemonCardItem = (props: PokemonCardItemProps) => {
     const capitalize = (text: string) => `${text[0].toUpperCase()}${text.slice(1)}`;
     const navigateToPokemonDetail = async () => {
-        // const value = await AsyncStorage.getItem('latestPokemon');
-        // const result = value ? JSON.parse(value) : null;
+        const value = await AsyncStorage.getItem('latestPokemon');
+        const result = value ? JSON.parse(value) : null;
 
-        // console.log("resul", result);
+        console.log("resul", result);
 
-        // await AsyncStorage.setItem('latestPokemon', JSON.stringify(props));
+        await AsyncStorage.setItem('latestPokemon', JSON.stringify(props));
 
         Navigation.push(props.parentComponentId, {
             component: {
@@ -52,7 +52,14 @@ const PokemonCardItem = (props: PokemonCardItemProps) => {
                     topBar: {
                         title: {
                             text: capitalize(props.name)
-                        }
+                        },
+                        rightButtons: [{
+                            id: 'fave',
+                            component: {
+                                name: 'faviconbutton',
+                                passProps: props
+                            }
+                        }]
                     }
                 }
             }

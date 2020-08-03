@@ -122,7 +122,14 @@ const PokemonDetail = (props: PokemonDetailProps) => {
                 topBar: {
                     title: {
                         text: capitalize(pokemon.name)
-                    }
+                    },
+                    rightButtons: [{
+                        id: 'fave',
+                        component: {
+                            name: 'faviconbutton',
+                            passProps: pokemon
+                        }
+                    }]
                 }
             }
         }
