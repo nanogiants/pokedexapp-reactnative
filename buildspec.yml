@@ -15,8 +15,6 @@ phases:
       - npm run build:android
 
 artifacts:
-  secondary-artifacts:
-    artifact1:
-      base-directory: android/app/build/outputs/bundle
-      files:
-        - "**/*"
+  type: zip
+  files:
+    - "android/app/build/outputs/bundle/**/*"
