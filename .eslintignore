@@ -1,0 +1,9 @@
+android
+__tests__
+ios
+node_modules
+output
+.eslintrc.js
+.prettierrc.js 
+index.js
+metro.config.js
