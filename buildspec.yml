@@ -18,3 +18,4 @@ artifacts:
   type: zip
   files:
     - "android/app/build/outputs/bundle/**/*"
+  name: $(date +%Y-%m-%d)-pokedexapp
