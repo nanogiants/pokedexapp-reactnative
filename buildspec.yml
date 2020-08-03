@@ -17,4 +17,4 @@ phases:
 artifacts:
   type: zip
   files: 
-    - test.zip
+    - output/test.zip
