@@ -9,7 +9,7 @@
     "test": "jest",
     "lint": "eslint . --ext .js,.jsx,.ts,.tsx",
     "emulator": "/Users/stefan/Library/Android/sdk/emulator/emulator @Pixel_2_XL_API_28",
-    "build:android": "git archive -9 -o test.zip HEAD"
+    "build:android": "mkdir -p output && git archive -9 -o output/test.zip HEAD"
   },
   "dependencies": {
     "@react-native-community/async-storage": "^1.11.0",
