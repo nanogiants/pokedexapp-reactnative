@@ -10,7 +10,8 @@
     "lint": "echo \"linting...\"",
     "lint:backup": "eslint . --ext .js,.jsx,.ts,.tsx",
     "emulator": "/Users/stefan/Library/Android/sdk/emulator/emulator @Pixel_2_XL_API_28",
-    "build:android": "mkdir -p output && git archive -9 -o output/test.zip HEAD"
+    "build:android": "cd android && ./gradlew bundleRelease",
+    "build:ios": ""
   },
   "dependencies": {
     "@react-native-community/async-storage": "^1.11.0",
