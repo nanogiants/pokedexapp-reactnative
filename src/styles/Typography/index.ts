@@ -10,7 +10,7 @@ export default {
     `,
     HighlighTextStyle: styled.Text`
         font-size: 16px;
-        color: #808080
+        color: #808080;
     `,
     HintTextStyle: styled.Text`
         font-size: 13px;
