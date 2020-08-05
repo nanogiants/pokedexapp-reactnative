@@ -1,0 +1,31 @@
+name: Build Android
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  install:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Install npm depdendencies
+        run: npm install
+      # - name: Lint codestyle
+      #   run: npm run lint
+
+  build-android:
+    needs: install
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Install npm depdendencies
+        run: npm install
+      - name: Build android release
+        run: npm run build:android
+      - name: Upload apk
+        uses: actions/upload-artifact@v1
+        with:
+          name: app-release.apk
+          path: android/app/build/outputs/apk/release

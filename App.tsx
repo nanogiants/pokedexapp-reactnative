@@ -22,6 +22,8 @@ const registerScreens = () => {
 }
 
 Navigation.events().registerAppLaunchedListener(async () => {
+  console.log("helloe");
+
   registerScreens();
 
   Navigation.setRoot({

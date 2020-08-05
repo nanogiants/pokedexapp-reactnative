@@ -10,7 +10,7 @@
     "lint": "echo \"linting...\"",
     "lint:backup": "eslint . --ext .js,.jsx,.ts,.tsx",
     "emulator": "/Users/stefan/Library/Android/sdk/emulator/emulator @Pixel_2_XL_API_28",
-    "build:android": "cd android && ./gradlew bundleRelease",
+    "build:android": "cd android && ./gradlew assembleRelease",
     "build:ios": ""
   },
   "dependencies": {
